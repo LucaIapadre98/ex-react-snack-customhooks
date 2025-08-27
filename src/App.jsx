@@ -6,8 +6,7 @@ export default function App() {
       <h1>Il valore è: {isOn ? "On" : "Off"}</h1>
       <button onClick={toggle}>Cambia stato</button>
     </div>
-   
-  )
+  );
 };
 
  
